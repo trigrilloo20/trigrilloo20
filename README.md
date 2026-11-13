@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
+  <img src="assets/divider.svg?v=5" alt="" width="100%">
 </p>
 
 ## About
@@ -11,7 +11,7 @@
 Backend and infrastructure engineer from México 🇲🇽 focused on **servers, hosting and DevOps**. I run **GalaxityHosting INC**: backend services with **Go** and **Node.js**, virtualization with **Proxmox** and **Docker**, game server hosting with **Pterodactyl**, and Linux administration on **Arch**, **Debian** and **Ubuntu**. More about me at [trigri.galaxity.lol](https://trigri.galaxity.lol).
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
+  <img src="assets/divider.svg?v=5" alt="" width="100%">
 </p>
 
 ## Stats
@@ -31,7 +31,7 @@ Backend and infrastructure engineer from México 🇲🇽 focused on **servers, 
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
+  <img src="assets/divider.svg?v=5" alt="" width="100%">
 </p>
 
 ## Skills
@@ -54,5 +54,5 @@ Backend and infrastructure engineer from México 🇲🇽 focused on **servers, 
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
+  <img src="assets/divider.svg?v=5" alt="" width="100%">
 </p>
