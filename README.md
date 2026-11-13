@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="trigrilloo20 - Backend and Infrastructure Engineer" width="100%">
+  <img src="assets/banner.gif?v=6" alt="trigrilloo20 - Backend and Infrastructure Engineer" width="100%">
 </p>
 
 <p align="center">
