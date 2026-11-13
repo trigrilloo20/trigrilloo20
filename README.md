@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">trigrilloo20</h1>
+<h1 align="center">𝐓𝐑𝐈𝐆𝐑𝐈𝐋𝐋𝐎𝐎𝟐𝟎</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F472B6&center=true&vCenter=true&width=560&height=30&lines=Servers+%C2%B7+Hosting+%C2%B7+Infrastructure;Discord+bots+%26+Minecraft+servers;Running+GalaxityHosting+INC;From+M%C3%A9xico" alt="typing header">
@@ -20,7 +20,7 @@
 
 ## About
 
-I'm **trigrilloo20**, a backend & infrastructure engineer from México 🇲🇽 focused on **servers, hosting**. I run **GalaxityHosting INC**, where I manage my own projects end to end — including free hosting, Discord bots with web dashboards, and a Minecraft server community.
+I'm **𝐓𝐑𝐈𝐆𝐑𝐈𝐋𝐋𝐎𝐎𝟐𝟎**, a backend & infrastructure engineer from México 🇲🇽 focused on **servers, hosting**. I run **GalaxityHosting INC**, where I manage my own projects end to end — including free hosting, Discord bots with web dashboards, and a Minecraft server community.
 
 - 🖥️ Backend development with **Go** and **Node.js** — REST APIs, microservices, WebSockets & JWT auth
 - 🐳 Containers & virtualization: **Docker**, **Proxmox VE**, **KVM / LXC**
