@@ -34,17 +34,17 @@ I'm **trigrilloo20**, a developer from México 🇲🇽 focused on **servers, ho
 ## Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trigrilloo20&theme=radical&bg_color=00000000" alt="Profile Details">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trigrilloo20&theme=radical&bg_color=161b22" alt="Profile Details">
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trigrilloo20&theme=radical&bg_color=00000000" alt="GitHub Stats">
-  <img height="180" src="https://streak-stats.demolab.com?user=trigrilloo20&background=00000000&border=f472b640&stroke=f472b6&ring=22d3ee&fire=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=f472b6&sideLabels=94a3b8&dates=64748b" alt="Streak">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trigrilloo20&theme=radical&bg_color=161b22" alt="GitHub Stats">
+  <img height="180" src="https://streak-stats.demolab.com?user=trigrilloo20&background=161b22&border=f472b640&stroke=f472b6&ring=22d3ee&fire=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=f472b6&sideLabels=94a3b8&dates=64748b" alt="Streak">
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trigrilloo20&theme=radical&bg_color=00000000" alt="Repos per Language">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trigrilloo20&theme=radical&bg_color=00000000" alt="Most Commit Language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trigrilloo20&theme=radical&bg_color=161b22" alt="Repos per Language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trigrilloo20&theme=radical&bg_color=161b22" alt="Most Commit Language">
 </p>
 
 <p align="center">
