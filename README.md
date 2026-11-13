@@ -20,7 +20,7 @@
 
 ## About
 
-I'm **trigrilloo20**, a backend & infrastructure engineer from México 🇲🇽 focused on **servers, hosting and DevOps**. I run **GalaxityHosting INC**, where I manage my own projects end to end — including free hosting, Discord bots with web dashboards, and a Minecraft server community.
+I'm **trigrilloo20**, a backend & infrastructure engineer from México 🇲🇽 focused on **servers, hosting**. I run **GalaxityHosting INC**, where I manage my own projects end to end — including free hosting, Discord bots with web dashboards, and a Minecraft server community.
 
 - 🖥️ Backend development with **Go** and **Node.js** — REST APIs, microservices, WebSockets & JWT auth
 - 🐳 Containers & virtualization: **Docker**, **Proxmox VE**, **KVM / LXC**
